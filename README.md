@@ -1,2 +1,1 @@
-# student_record_keepin_app
-A simple Student Record Keeping System built using Java Swing and Java FIle handling classes
+A simple Student Record Keeping System built using Java Swing API and Java File handling classes. It uses a simple text file, database.txt as a database to store the student records. The System was designed and built as part of an assignment for my Java Programming course at UCSI University during the Jan-May semester of 2022.
