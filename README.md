@@ -14,6 +14,7 @@ The application consists of two classes: Student and App. The Student class defi
     1. Download the source code from the link provided or clone the repository using the following command:
 
     ```git clone https://github.com/username/Student-Record-Keeping-App.git
+    bash
     ```
 
     2. Import the project into your preferred IDE.
