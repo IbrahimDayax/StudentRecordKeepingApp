@@ -42,8 +42,8 @@ git clone https://github.com/username/Student-Record-Keeping-App.git
 
 ## Usage
 
-   -> Start the application by running the App class.
-   -> Use the input fields to add, search, and delete records.
-   -> Use the buttons to add, search, delete, sort, and display all records.
-   -> The records will be displayed on the TextArea.
+    Start the application by running the App class.
+    Use the input fields to add, search, and delete records.
+    Use the buttons to add, search, delete, sort, and display all records.
+    The records will be displayed on the TextArea.
 
