@@ -6,19 +6,17 @@ The application consists of two classes: Student and App. The Student class defi
 
 ## Prerequisites
 
-    Java SE Development Kit (JDK) 8 or higher
-    Java Integrated Development Environment (IDE) such as Eclipse, IntelliJ IDEA, or NetBeans
+- Java SE Development Kit (JDK) 8 or higher
+- Java Integrated Development Environment (IDE) such as Eclipse, IntelliJ IDEA, or NetBeans
 
 ## Installation
 
-    1. Download the source code from the link provided or clone the repository using the following command:
-
-```bash
-git clone https://github.com/username/Student-Record-Keeping-App.git
-```
-
-    2. Import the project into your preferred IDE.
-    3. Build and run the project.
+1. Download the source code from the link provided or clone the repository using the following command:
+  - ```bash
+    git clone https://github.com/username/Student-Record-Keeping-App.git
+    ```
+2. Import the project into your preferred IDE.
+3. Build and run the project.
 
 ## Getting Started
 
